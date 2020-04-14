@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Motor_Servicing.DataLayer\Motor_Servicing.DataLayer.csproj" />
+    <ProjectReference Include="..\Motor_Servicing.Entities\Motor_Servicing.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
